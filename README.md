@@ -54,6 +54,6 @@ _Don't forget to submit a link to your *Presentation Script* along with your Jou
 
 ## Rubric & Samples
 
-[Here is a link to the rubric]() that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
+[Here is a link to the rubric](https://www.notion.so/lambdaschool/a0252ba27b1d4466882a869fbb9d755d?v=b6f223dd5a9d40f98ea8be53aebd8c16) that will be used to assess your answers to the prompts. _Use this as a guide_ as you craft your responses.
 
 **No Sample Submission** You got this :) 
