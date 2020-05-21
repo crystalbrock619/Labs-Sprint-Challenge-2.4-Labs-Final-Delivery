@@ -25,15 +25,11 @@ After completing the prompts, you may choose to also deliver a presentation of y
 
 ### Prompt 1
 
-**Required**
-
 - Describe in detail the favorite feature that you built, designed or delivered as a member of your project team. **Please include links to a Figma file, pull-requests or link to a file in a repository that outlines the work you did on this feature.**
 - Describe the biggest hurdle you overcame technically or from a design perspective. **Be specific in what the problem was and how you overcame it.**
 - Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team. **Be specific but please don't mention any team members by name.**
 
 ### Slide Deck
-
-**Optional**
 
 - Your slide-deck presentation should include the following:
     - 1 slide on the problem tried your team set out to solve.
@@ -46,9 +42,11 @@ After completing the prompts, you may choose to also deliver a presentation of y
   1 slide of reflection as to what they did differently. This is to be a short retrospective what you learned during your labs experience.
 - Record a 2 min (max) video delivering your slide deck as a presentation.
 
+> Link your demo and Slide Deck in your Prompt Submission.
+
 ## Submitting your work
 
-Please submit a link to your journal entry for this sprint, in the Sprint Retrospective Form. This is to be done every _Friday before 11am PT_ -- for Full Time -- and before the end of your 2nd '5th' day -- for Part Time -- to be counted as a submission for that sprint.
+Please submit a link to your journal entry **AND DON'T FORGET TO LINK YOUR SLIDE DECK IN YOUR RESPONSE** for this sprint, in the Sprint Retrospective Form. This is to be done every _Friday before 11am PT_ -- for Full Time -- and before the end of your 2nd '5th' day -- for Part Time -- to be counted as a submission for that sprint.
 
 _Don't forget to submit a link to your *Presentation Script* along with your Journal Entry response_
 
