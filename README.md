@@ -21,7 +21,7 @@ Throughout Labs, you have learned what it takes to be an active contributor to a
 
 Now we'd like for you to put together a final presentation of your story. The following prompts will help you create an outline for your presentation content.
 
-After completing the prompts, you may choose to also deliver a presentation of your Lambda Labs story in the form of a slide-deck video presentation.
+After completing the prompts, you _may_ choose to deliver a presentation of your Lambda Labs story in the form of a slide-deck video presentation.
 
 ### Prompt 1
 
@@ -29,7 +29,7 @@ After completing the prompts, you may choose to also deliver a presentation of y
 - Describe the biggest hurdle you overcame technically or from a design perspective. **Be specific in what the problem was and how you overcame it.**
 - Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team. **Be specific but please don't mention any team members by name.**
 
-### Slide Deck
+### Slide Deck (Optional)
 
 - Your slide-deck presentation should include the following:
     - 1 slide on the problem tried your team set out to solve.
