@@ -25,9 +25,12 @@ After completing the prompts, you _may_ choose to deliver a presentation of your
 
 ### Prompt 1
 
-- Describe in detail the favorite feature that you built, designed or delivered as a member of your project team. **Please include links to a Figma file, pull-requests or link to a file in a repository that outlines the work you did on this feature.**
-- Describe the biggest hurdle you overcame technically or from a design perspective. **Be specific in what the problem was and how you overcame it.**
-- Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team. **Be specific but please don't mention any team members by name.**
+- Describe in detail the favorite feature that you built, designed or delivered as a member of your project team.
+    - **Please include links to a Figma file, pull-requests or link to a file in a repository that outlines the work you did on this feature.**
+- Describe the biggest hurdle you overcame technically or from a design perspective.
+    - **Be specific in what the problem was and how you overcame it.**
+- Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team.
+    - **Be specific but please don't mention any team members by name.**
 
 ### Slide Deck (Optional)
 
