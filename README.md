@@ -32,17 +32,15 @@ After completing the prompts, you _may_ choose to deliver a presentation of your
 - Describe in detail the biggest 'inter-personal' conflict you overcame as a member of your project team.
     - **Be specific but please don't mention any team members by name.**
 
-### Slide Deck (Optional)
+### Slide Deck/Video (Optional)
 
 - Your slide-deck presentation should include the following:
-    - 1 slide on the problem tried your team set out to solve.
-    - 1 slide on the user research that went into your product vision.
-    - 1 slide on breaking down into releases `Release Canvases`
-    - 1 slide on favorite feature. Include screenshots as necessary.
-    - 1 slide on how they tested that feature. Tell us how you made sure that the feature worked correctly and how you know it solves the problem you set out to solve.
-    - 1 slide of reflection as to what they did differently. This is to be a short retrospective of what you learned during your labs experience
-  1 slide on how they tested that feature. Tell us how you made sure that the feature worked correctly and how you know it solves the problem you set out to solve.
-  1 slide of reflection as to what they did differently. This is to be a short retrospective what you learned during your labs experience.
+    - 1 slide on the problem your product is meant to solve.
+    - 1 slide on the user research that went into developing your product vision.
+    - 1 slide on breaking down the overall product into releases `Release Canvases`
+    - 1 slide on a favorite feature. Include screenshots as necessary.
+    - 1 slide on how the team tested that feature. Tell us how you made sure that the feature worked correctly and how you know it solves part of the original the problem.
+    - 1 slide of reflection as to what your team might have done differently. This is to be a short retrospective of what you learned during your labs experience
 - Record a 2 min (max) video delivering your slide deck as a presentation.
 
 > Link your demo and Slide Deck in your Prompt Submission.
